@@ -1,0 +1,10 @@
+archive
+.idea
+__pycache__
+save
+venv
+.vscode
+data/trainset.zip
+data/testset.zip
+data/trainset
+data/testset
